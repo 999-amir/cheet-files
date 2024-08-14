@@ -1,0 +1,1 @@
+xception_base = keras.applications.Xception(weights='xception_weights_tf_dim_ordering_tf_kernels_notop.h5', include_top=False)
